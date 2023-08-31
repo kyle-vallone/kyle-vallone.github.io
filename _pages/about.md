@@ -10,7 +10,7 @@ After graduation, Kyle plans to pursue a doctorate in biology and will be search
 
 ## Education
 
-### Vanderbilt University
+# Vanderbilt University
 Expected Graduation: May 2025
 * BA Molecular and Cellular Biology
 * BA Communmication of Science and Technology
