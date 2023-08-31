@@ -52,4 +52,4 @@ Science Communication and Education Projects:
 *  [Where's the STEM in Tennessee? Analyzing the distribution of AP and IB science, technology, engineering, and math courses in Tennessee high schools.](https://storymaps.arcgis.com/stories/7b93d64df8ac4a74866d8029b0109f26)
 *  [Basics of SolidWorks Curriculum (for FIRST Robotics Teams)](https://robotdolphins.org/index.php/team-resources/)
 
-<img src="/assets/img/KV_Headshot_Square.jpg" alt="Kyle Vallone" style="width:200px;"/>
+<img src="/assets/img/KV_Headshot_Square.jpg" alt="Kyle Vallone" style="width:500px;"/>
