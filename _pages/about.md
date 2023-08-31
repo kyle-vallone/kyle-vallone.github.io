@@ -49,7 +49,8 @@ Scientific Publications:
 *  [Damage-induced senescent immune cells regulate regeneration of the zebrafish retina.](https://doi.org/10.1101/2023.01.16.524296) BioRxiv (preprint, January 2023).
 
 Science Communication and Education Projects:
-*  Where's the STEM in Tennessee? Analyzing the distribution of AP and IB science, technology, engineering, and math courses in Tennessee high schools. <iframe src="" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+*  Where's the STEM in Tennessee? Analyzing the distribution of AP and IB science, technology, engineering, and math courses in Tennessee high schools.
+<iframe src="" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 *  [Basics of SolidWorks Curriculum (for FIRST Robotics Teams)](https://robotdolphins.org/index.php/team-resources/)
 
 ![Kyle Vallone](/assets/img/KV_Headshot_Square.jpg)
