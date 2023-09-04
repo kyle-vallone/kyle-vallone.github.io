@@ -2,8 +2,8 @@
 title: "Syringe Pump"
 excerpt: "A pump with a configurable flow rate able to accomadate syringes from 5 to 20 mL."
 header:
-  image: /assets/img/syringe_pump_render.jpg
-  teaser: /assets/img/syringe_pump_render.jpg
+  image: /assets/img/syringe_pump_render.png
+  teaser: /assets/img/syringe_pump_render.png
 gallery:
   - image_path: assets/img/Slide-3.png
   - image_path: assets/img/Slide-2.png
@@ -18,6 +18,6 @@ gallery:
 * **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
 
 # CAD Model
-<iframe src="https://https://vanderbilt643.autodesk360.com/g/shares/SH512d4QTec90decfa6e5e56565e8cb9c16c?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e5e56565e8cb9c16c?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 {% include gallery caption="Syringe Pump Gallery" %}
