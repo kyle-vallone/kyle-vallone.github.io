@@ -18,7 +18,7 @@ feature_row:
     alt: "Kyle leading a group as a biology learning assistant."
     title: "Science Pedagogy"
     excerpt: "Leading discussions as a Learning Assistant for introductory biology"
-  - image_path: assets/img/syringe_pump_render.png
+  - image_path: assets/img/syringe_pump_render.jpg
     alt: "A syringe pump designed by Kyle."
     title: "Digital Fabrication Projects"
     excerpt: "Leveraging technology to teach and research"
