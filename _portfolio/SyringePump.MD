@@ -2,8 +2,8 @@
 title: "Syringe Pump"
 excerpt: "A pump with a configurable flow rate able to accomadate syringes from 5 to 20 mL."
 header:
-  image: /assets/img/syringe_pump_render.png
-  teaser: /assets/img/syringe_pump_render.png
+  image: /assets/img/syringe_pump_render.jpg
+  teaser: /assets/img/syringe_pump_render.jpg
 gallery:
   - image_path: assets/img/Slide-3.png
   - image_path: assets/img/Slide-2.png
