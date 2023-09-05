@@ -23,6 +23,7 @@ gallery:
 
 # Bill of Materials
 ## Off-the-Shelf Parts
+
 | Item | Quantity |
 | --- | --- |
 | V-Slot Aluminum Extrusion (20 x 40 x 350 mm) | 1 |
@@ -48,6 +49,7 @@ gallery:
 | M3 x 8 mm Thread-Forming Screw | 4 |
 
 ## 3D Printed Parts
+
 | Item | Material | Quantity |
 | --- | --- | --- |
 | Motor Mounting Plate | ABS | 1 |
