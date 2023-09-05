@@ -13,10 +13,10 @@ gallery:
 
 # Features
 
-* **Affordable Construction** By leveraging 3D printing and common off-the-shelf parts, this DIY syringe pump can be built for a fraction of the cost of commercial syringe pumps.
-* **Flexible Design, Fine Control** The design of this pump can accommodate syringes ranging from 10 to 20 mL and dispense volumes as small as 0.0004 mL or 0.0025 mL for the 10 and 20 mL syringes, respectively. When running at the maximum flow rate, however, the contents of each syringe can be emptied in under 6 (10 mL) or 7 (20 mL) seconds.
-* **Programmatic and Manual Control Options** Directional buttons and a potentiometer that controls flow rate allow for manual operation, while a constant flow rate can also be set in the code for automatic operation.
-* **Status LED** A large LED integrated into the electronics housing glows green when the pump is in operation, yellow when the pump is paused, and red when it is out of liquid, allowing for easy identificaiton of the pump's status.
+* **Affordable Construction:** By leveraging 3D printing and common off-the-shelf parts, this DIY syringe pump can be built for a fraction of the cost of commercial syringe pumps.
+* **Flexible Design, Fine Control:** The design of this pump can accommodate syringes ranging from 10 to 20 mL and dispense volumes as small as 0.0004 mL or 0.0025 mL for the 10 and 20 mL syringes, respectively. When running at the maximum flow rate, however, the contents of each syringe can be emptied in under 6 (10 mL) or 7 (20 mL) seconds.
+* **Programmatic and Manual Control Options:** Directional buttons and a potentiometer that controls flow rate allow for manual operation, while a constant flow rate can also be set in the code for automatic operation.
+* **Status LED:** A large LED integrated into the electronics housing glows green when the pump is in operation, yellow when the pump is paused, and red when it is out of liquid, allowing for easy identificaiton of the pump's status.
 
 # CAD Model
 <iframe src="https://vanderbilt968.autodesk360.com/shares/public/SHd38bfQT1fb47330c99b5e130da64a74320?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
