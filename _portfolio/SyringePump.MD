@@ -18,6 +18,26 @@ gallery:
 * **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
 
 # CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e5e56565e8cb9c16c?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt968.autodesk360.com/shares/public/SHd38bfQT1fb47330c99b5e130da64a74320?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# Bill of Materials
+## Off-the-Shelf Parts
+| Item | Vendor | Quantity | Price |
+|:---: |:------:|:--------:|:-----:|
+| | | |
+
+## 3D Printed Parts
+| Item | Material | Quantity |
+|:---: |:--------:|:--------:|
+|Motor Mounting Plate|ABS|1|
+|Carriage|ABS|1|
+|End Stop|ABS|1|
+|Shaft Collar Retainer|ABS|1|
+|Electronics Enclosure Box|PLA|1|
+|Electronics Enclosure Lid|ABS|1|
+
+# Arduino Code Repository
+
+# Operation Instructions
 
 {% include gallery caption="Syringe Pump Gallery" %}
