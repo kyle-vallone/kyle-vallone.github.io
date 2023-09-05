@@ -1,6 +1,6 @@
 ---
 title: "DIY Syringe Pump"
-excerpt: "A DIY pump with a configurable flow rate able to accomodate syringes from 10 to 20 mL."
+excerpt: "A DIY pump with a configurable flow rate able to accommodate syringes from 10 to 20 mL."
 header:
   image: /assets/img/sp_real_assembly.png
   teaser: /assets/img/syringe_pump_render.jpg
@@ -13,9 +13,10 @@ gallery:
 
 # Features
 
-* **Massive Print Area: 1140 x 1200 x 1100 mm.** With a build envelop just shy of 4 feet in all dimensions, the LF3DP is capable of printing furniture and other large objects.
-* **High Volumetric Output Extruder: 1 kg/hr - 450 C.** This printer come standard with a MDPH2 extruder by Massive Dimension, which can extrude at a rate of 1 kg/hr. Unlike typical filament extruders, the MDPH2 uses a screw to convey and liquify plastic pellets before the molten material is pushed out of a large nozzle (1 to 5 mm extrusion diameter). Please note: This printer can also be configured for other high flow rate extruders, such as the Typhoon and Pulsar by Dyze Design.
-* **Affordable Pellet Feedstock** Pellets are the cheapest form of feedstock for any plastic-based manufacturing process. Save 50-75% of material costs by using pellets instead of spools of filament. Concentrated colorant can be added to the virgin material to achieve any color in the rainbow without requiring large amounts of storage. Recyled material can also be used for sustainable material printing.
+* **Affordable Construction** By leveraging 3D printing and common off-the-shelf parts, this DIY syringe pump can be built for a fraction of the cost of commercial syringe pumps.
+* **Flexible Design, Fine Control** The design of this pump can accommodate syringes ranging from 10 to 20 mL and dispense volumes as small as 0.0004 mL or 0.0025 mL for the 10 and 20 mL syringes, respectively. When running at the maximum flow rate, however, the contents of each syringe can be emptied in under 6 (10 mL) or 7 (20 mL) seconds.
+* **Programmatic and Manual Control Options** Directional buttons and a potentiometer that controls flow rate allow for manual operation, while a constant flow rate can also be set in the code for automatic operation.
+* **Status LED** A large LED integrated into the electronics housing glows green when the pump is in operation, yellow when the pump is paused, and red when it is out of liquid, allowing for easy identificaiton of the pump's status.
 
 # CAD Model
 <iframe src="https://vanderbilt968.autodesk360.com/shares/public/SHd38bfQT1fb47330c99b5e130da64a74320?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
