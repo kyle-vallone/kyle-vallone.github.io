@@ -1,13 +1,13 @@
 ---
-title: "Syringe Pump"
-excerpt: "A pump with a configurable flow rate able to accomadate syringes from 5 to 20 mL."
+title: "DIY Syringe Pump"
+excerpt: "A DIY pump with a configurable flow rate able to accomodate syringes from 10 to 20 mL."
 header:
-  image: /assets/img/syringe_pump_render.jpg
+  image: /assets/img/sp_real_assembly.png
   teaser: /assets/img/syringe_pump_render.jpg
 gallery:
-  - image_path: assets/img/Slide-3.png
-  - image_path: assets/img/Slide-2.png
-  - image_path: assets/img/Slide-4.png
+  - image_path: assets/img/sp_real_assembly.png
+  - image_path: assets/img/syringe_pump_render.jpg
+  - image_path: assets/img/sp_wiring.png
    
 ---
 
