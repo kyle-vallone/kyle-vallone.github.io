@@ -22,9 +22,30 @@ gallery:
 
 # Bill of Materials
 ## Off-the-Shelf Parts
-| Item | Vendor | Quantity | Price |
-|:---: |:------:|:--------:|:-----:|
-| | | |
+| Item |Quantity |
+|:---: |:-------:|
+|V-Slot Aluminum Extrusion (20 x 40 x 350 mm)|1|
+|NEMA-17 Motor|1|
+|Linear Rod (8 x 200 mm)|1|
+|Lead Screw (8 x 8 x 250 mm)|1|
+|Flexible Coupling (25 mm; 3 mm/4.5 mm bores)|1|
+|LM8UU Linear Bearing|1|
+|TR8x8 mm Lead Screw Nut|1|
+|FR688ZZ Flanged Ball Bearing|1|
+|Lock Collar (8 mm)|1|
+|Shaft Collar (8 mm)|2|
+|Elegoo Uno|1|
+|Limit Switch|1|
+|Potentiometer|1|
+|Arcade Buttons|2|
+|Latching Panel Mount Button|1|
+|LED|1|
+|Breadboard|1|
+|Mean Well Quad Power Supply|1|
+|M3 x 10 mm Bolt|14|
+|M3 T-Nut|14|
+|M3 x 8 mm Thread-Forming Screw|4|
+
 
 ## 3D Printed Parts
 | Item | Material | Quantity |
@@ -34,7 +55,9 @@ gallery:
 |End Stop|ABS|1|
 |Shaft Collar Retainer|ABS|1|
 |Electronics Enclosure Box|PLA|1|
-|Electronics Enclosure Lid|ABS|1|
+|Electronics Enclosure Lid|PLA|1|
+|Potentiometer Knob|ABS|1|
+|Nameplate|PLA|1|
 
 # Arduino Code Repository
 
