@@ -37,7 +37,7 @@ gallery:
 |Elegoo Uno|1|
 |Limit Switch|1|
 |Potentiometer|1|
-|Arcade Buttons|2|
+|Arcade Button|2|
 |Latching Panel Mount Button|1|
 |LED|1|
 |Breadboard|1|
