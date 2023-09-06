@@ -11,27 +11,31 @@ After graduation, Kyle plans to pursue a doctorate in biology and will be search
 ## Education
 
 #### Vanderbilt University
-Expected Graduation: May 2025
+#### *Expected Graduation: May 2025*
 * BA Molecular and Cellular Biology
 * BA Communication of Science and Technology
   * Minor: Digital Fabrication
 
 ## Work Experience
-#### Volunteer Curriculum Designer | Aspirnaut (Vanderbilt University Medical Center) | May 2023 - Present 
+#### Volunteer Curriculum Designer 
+#### *Aspirnaut | May 2023 - Present*
 * Developing a combined suite of lecture and lab activities to bring state-of-the-art chemical biology research to rural high school classrooms
 * Facilitating student research projects into the mechanisms of diabetic kidney disease using invertebrate model organisms
 * Supporting the rollout of a three-year pilot program in Wynne, Arkansas (starting in October 2023) and working with administrators to develop a state-approved course pathway
 * Assessing program impacts and efficacy through the lens of science self-efficacy, identity, and belonging
 * Designed new classroom space to house lecture, lab, and community outreach activities in response to tornado damage at the original site
-#### Undergraduate Researcher | Patton Lab (Vanderbilt University) | August 2022 - Present
+#### Undergraduate Researcher
+#### *Patton Lab (Vanderbilt University) | August 2022 - Present*
 * Investigating retinal regeneration in zebrafish through the lens of inflammation-senescence dynamics
 * Employing techniques such as immunohistochemistry and RNASeq to quantifiably assess the roles of different signaling pathways in regeneration
-#### Student Consultant in Molecular Biology | Open Avenues/Foghorn Therapeutics | June - August 2022
+#### Student Consultant in Molecular Biology 
+#### *Open Avenues/Foghorn Therapeutics | June - August 2022*
 * Developed a molecular cloning strategy in order to constitutively express a gene of interest (SMARCA4) in the SWI/SNF chromatin remodeling complex
 * Used SnapGene to design a plasmid vector containing SMARCA4 fused with a nuclear localization sequence and GFP and FLAG tags to study the nuclear expression of this gene
 * Assessed gene of interest's association with cancer and determined if the gene or its resulting proteins would be suitable for targeting with therapeutic solutions.
 * Researched druggability of multiple biomarkers in the SWI/SNF chromatin remodeling complex
-#### Founder and Lead Organizer | Operation CAPO CARES | March - June 2020
+#### Founder and Lead Organizer
+#### *Operation CAPO CARES | March - June 2020*
 * Founded CAPO CARES as a school district-wide initiative to respond to COVID-19 personal protective equipment shortages, producing over 12,000 components in three months for hospitals in need
 * Planned logistics to distribute 40 idle 3D printers for students to print face shield components from home
 * Personally advocated for and coordinated $5,000 donation from Dell Technologies
