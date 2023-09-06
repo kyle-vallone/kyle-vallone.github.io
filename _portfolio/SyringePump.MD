@@ -6,9 +6,9 @@ header:
   teaser: /assets/img/syringe_pump_render.jpg
 gallery:
   - image_path: assets/img/sp_real_assembly.png
-  - image_path: assets/img/sp_adaptive_jaws.png
-  - image_path: assets/img/syringe_pump_render.jpg
   - image_path: assets/img/sp_wiring.png
+  - image_path: assets/img/syringe_pump_render.jpg
+  - image_path: assets/img/sp_adaptive_jaws.png
    
 ---
 
@@ -25,11 +25,11 @@ Syringe pumps are used in both healthcare and biomedical research settings to di
 <iframe src="https://vanderbilt968.autodesk360.com/shares/public/SHd38bfQT1fb47330c99b5e130da64a74320?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Operation Instructions
-1) Determine the optimal syringe position in the slots on the carriage and end stop so that as much liquid as possible can be dispensed before the carriage triggers the end stop.
-2) Before flashing the code to the Arduino, update the SYRINGE_VOLUME_ML, SYRINGE_BARREL_LENGTH_MM, and FLOWRATE_ML_PER_MIN variables with your syringe dimensions and desired maximum flowrate.
-3) Use the arcade buttons to position the carriage so that the filled syringe can be inserted. 
-4) Set the desired flow rate with the potentiometer knob, checking the output on your computer's serial monitor.
-5) Press the latching power button to begin dispensing. The pump will run until the end stop is triggered by the carriage or manually paused with the power button. The pump can be reversed and reset using the arcade buttons.
+1. Determine the optimal syringe position in the slots on the carriage and end stop so that as much liquid as possible can be dispensed before the carriage triggers the end stop.
+2. Before flashing the code to the Arduino, update the SYRINGE_VOLUME_ML, SYRINGE_BARREL_LENGTH_MM, and FLOWRATE_ML_PER_MIN variables with your syringe dimensions and desired maximum flowrate.
+3. Use the arcade buttons to position the carriage so that the filled syringe can be inserted. 
+4. Set the desired flow rate with the potentiometer knob, checking the output on your computer's serial monitor.
+5. Press the latching power button to begin dispensing. The pump will run until the end stop is triggered by the carriage or manually paused with the power button. The pump can be reversed and reset using the arcade buttons.
 
 ## Bill of Materials
 #### Off-the-Shelf Parts
