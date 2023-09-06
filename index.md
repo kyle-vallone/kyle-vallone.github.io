@@ -21,7 +21,7 @@ feature_row:
   - image_path: assets/img/syringe_pump_render.jpg
     alt: "A syringe pump designed by Kyle."
     title: "Digital Fabrication Projects"
-    excerpt: "Leveraging technology to teach and research"
+    excerpt: "Leveraging innovative technology to teach and research"
 ---
 
 {% include feature_row %}
