@@ -8,12 +8,11 @@ gallery:
   - image_path: assets/img/sp_real_assembly.png
   - image_path: assets/img/sp_wiring.png
   - image_path: assets/img/syringe_pump_render.jpg
-  - image_path: assets/img/sp_adaptive_jaws.png
    
 ---
 
 ## Project Overview
-Syringe pumps are used in both healthcare and biomedical research settings to dispense precise amounts of liquid. By translating the rotational motion of a motor shaft to linear motion along a lead screw, syringe pumps can apply mechanical force to depress a loaded syringe in a controllable and tunable manner. This DIY syringe pump uses 3D printed parts and common off-the-shelf components to provide a low-resource, affordable alternative to commercial syringe pumps. Furthermore, the pump can be operated with limited training, as only a few key parameters need to be provided before it can operate autonomously.
+Syringe pumps are used in both healthcare and biomedical research settings to dispense precise amounts of liquid. By translating the rotational motion of a motor shaft to linear motion along a lead screw, syringe pumps can apply mechanical force to depress a loaded syringe in a controllable and tunable manner. This DIY syringe pump uses 3D printed parts and common off-the-shelf components to provide a low-resource, affordable alternative to commercial syringe pumps. Furthermore, the pump can be operated with limited training, as only a few key parameters need to be provided before it can begin functioning autonomously.
 
 ## Key Features
 * **Affordable Construction:** By leveraging 3D printing and common off-the-shelf parts, this DIY syringe pump can be built for a fraction of the cost of commercial syringe pumps.
