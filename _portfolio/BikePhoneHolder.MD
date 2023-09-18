@@ -2,8 +2,8 @@
 title: "Adjustable Handlebar-Mounted Phone Holder"
 excerpt: "A flexible phone holder for your bike that can accommodate horizontal and vertical orientations."
 header:
-  image: /assets/img/ bph_front_vert.png
-  teaser: /assets/img/ bph_front_hori.png
+  image: /assets/img/bph_front_hori.png
+  teaser: /assets/img/bph_front_vert.png
 gallery:
   - image_path: assets/img/bph_front_hori.png
   - image_path: assets/img/bph_front_vert.png
