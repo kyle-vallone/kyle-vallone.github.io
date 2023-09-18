@@ -7,7 +7,7 @@ header:
 gallery:
   - image_path: assets/img/bph_front_hori.png
   - image_path: assets/img/bph_front_vert.png
-  - image_path: assets/img/bph_back_hori.jpg
+  - image_path: assets/img/bph_back_hori.png
    
 ---
 
