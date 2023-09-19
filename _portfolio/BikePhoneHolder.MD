@@ -2,8 +2,8 @@
 title: "Adjustable Phone Holder for Bikes"
 excerpt: "A flexible, handlebar-mounted phone holder that can accommodate horizontal and vertical orientations."
 header:
-  image: /assets/img/bph_front_hori.png
-  teaser: /assets/img/bph_real_banner.jpg
+  image: /assets/img/bph_real_banner.jpg
+  teaser: /assets/img/bph_front_hori.png
 gallery:
   - image_path: assets/img/bph_front_hori.png
   - image_path: assets/img/bph_front_vert.png
@@ -69,6 +69,6 @@ Top-down modeling was leveraged to create the bulk of this design. This approach
 | Ball Joint Arm | TPU | 1 |
 | Phone Case Adapter | TPU | 1 |
 
-## Photo Gallery
+## Media Gallery
 
 {% include gallery caption="" %}
