@@ -2,8 +2,8 @@
 title: "Multimaterial Printed Pliers"
 excerpt: "Pliers with rigid handles and jaws and an elastic hinge, perfect for gently gripping resistors."
 header:
-  image: /assets/img/bph_real_banner.jpg
-  teaser: /assets/img/bph_front_hori.png
+  image: /assets/img/pliers_side_profile.jpg
+  teaser: /assets/img/pliers_render.png
 gallery:
   - image_path: assets/img/pliers_side_profile.jpg
   - image_path: assets/img/pliers_iterations.jpg
