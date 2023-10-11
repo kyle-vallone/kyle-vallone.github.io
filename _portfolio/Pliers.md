@@ -36,20 +36,9 @@ Print-in-place manufacturing allows 3D printers to produce functional, articulat
 * test 3D printer tolerances, like this [print-in-place combustion engine](https://www.printables.com/model/212989-print-in-place-engine-benchmark-the-bengine),
 * produce toys, like this [articulating dragon](https://cults3d.com/en/3d-model/art/crystal-dragon-articulating-flexi-wiggle-pet-print-in-place-fantasy), which is extremely popular on online marketplaces,
 * start new fashion trends, like this [3D-printed chain mail](https://www.thingiverse.com/thing:3096598),
-
-![print-in-place chain mail](assets/img/pip_chainmail.jpg)
-
 * create compliant mechanisms, such as these [designs from the BYU CMR Group](https://compliantmechanisms.byu.edu/maker-resources),
-
-![print-in-place compliant pliers](assets/img/pip_pliers.png)
-
 * make tools on-demand, like this [wrench made on the International Space Station](https://www.nasa.gov/missions/station/space-station-3-d-printer-builds-ratchet-wrench-to-complete-first-phase-of-operations/), or
-
-![print-in-place wrench](assets/img/pip_nasa.png)
-
 * manufacture multimaterial parts with varying mechanical properties, like this [bearing block from Igus](https://toolbox.igus.com/motion-plastics-blog/multi-material-parts-from-3d-printer)
-
-![print-in-place bearing block](assets/img/pip_mmbb.jpg)
 
 While incorporating materials with different mechanical properties can elevate the functionality of print-in-place designs, such as using both rigid and elastic materials, differing materials may not adhere well to each other. Therefore, when using both rigid and elastic parts in print-in-place modeling, care needs to be taken to appropriately retain the regions made from each material in the design. Creating mechanical mates, such as encapsulated or overlapping regions and/or dovetail joints, to force these materials to stay together, is therefore essential for designs like these. 
 
