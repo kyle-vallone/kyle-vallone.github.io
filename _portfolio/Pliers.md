@@ -36,11 +36,14 @@ Print-in-place manufacturing allows 3D printers to produce functional, articulat
 * test 3D printer tolerances, like this [print-in-place combustion engine](https://www.printables.com/model/212989-print-in-place-engine-benchmark-the-bengine),
 * produce toys, like this [articulating dragon](https://cults3d.com/en/3d-model/art/crystal-dragon-articulating-flexi-wiggle-pet-print-in-place-fantasy), which is extremely popular on online marketplaces,
 * start new fashion trends, like this [3D-printed chain mail](https://www.thingiverse.com/thing:3096598),
-<img src="/assets/img/pip_chainmail.jpg" alt="Hinge getting encapsulated in the left jaw of the pliers during printing." style="width:300px;"/> 
+<img src="/assets/img/pip_chainmail.jpg" alt="Hinge getting encapsulated in the left jaw of the pliers during printing." style="width:300px;"/>
+
 * create compliant mechanisms, such as these [designs from the BYU CMR Group](https://compliantmechanisms.byu.edu/maker-resources),
-<img src="/assets/img/pip_pliers.png" style="width:300px;"/> 
+<img src="/assets/img/pip_pliers.png" style="width:300px;"/>
+
 * make tools on-demand, like this [wrench made on the International Space Station](https://www.nasa.gov/missions/station/space-station-3-d-printer-builds-ratchet-wrench-to-complete-first-phase-of-operations/), or
-<img src="/assets/img/pip_nasa.png" style="width:300px;"/> 
+<img src="/assets/img/pip_nasa.png" style="width:300px;"/>
+
 * manufacture multimaterial parts with varying mechanical properties, like this [bearing block from Igus](https://toolbox.igus.com/motion-plastics-blog/multi-material-parts-from-3d-printer)
 <img src="/assets/img/pip_mmbb.jpg" style="width:300px;"/> 
 
