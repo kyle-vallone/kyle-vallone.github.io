@@ -2,8 +2,8 @@
 title: "Multimaterial Pliers"
 excerpt: "Pliers with rigid handles and jaws and an elastic hinge, perfect for gently gripping resistors."
 header:
-  image: /assets/img/pliers_render.png
-  teaser: /assets/img/pliers_side_profile.jpg
+  image: /assets/img/pliers_side_profile.jpgpliers_render.png
+  teaser: /assets/img/pliers_render.png
 gallery:
   - image_path: assets/img/pliers_side_profile.jpg
   - image_path: assets/img/pliers_iterations.jpg
@@ -34,12 +34,25 @@ These pliers were designed with precision electronics in mind. They should able 
 #### Print-in-Place Parts
 Print-in-place manufacturing allows 3D printers to produce functional, articulating mechanisms all in one go, with no assembly required. The applications of print-in-place models are many—for instance, they can be used to… 
 * test 3D printer tolerances, like this [print-in-place combustion engine](https://www.printables.com/model/212989-print-in-place-engine-benchmark-the-bengine),
-* produce toys, like this [articulating dragon](https://cults3d.com/en/3d-model/art/crystal-dragon-articulating-flexi-wiggle-pet-print-in-place-fantasy), which is extremely popular on online marketplaces, 
+* produce toys, like this [articulating dragon](https://cults3d.com/en/3d-model/art/crystal-dragon-articulating-flexi-wiggle-pet-print-in-place-fantasy), which is extremely popular on online marketplaces,
 * start new fashion trends, like this [3D-printed chain mail](https://www.thingiverse.com/thing:3096598),
+
+![print-in-place chain mail](assets/img/pip_chainmail.jpg)
+
 * create compliant mechanisms, such as these [designs from the BYU CMR Group](https://compliantmechanisms.byu.edu/maker-resources),
+
+![print-in-place compliant pliers](assets/img/pip_pliers.png)
+
 * make tools on-demand, like this [wrench made on the International Space Station](https://www.nasa.gov/missions/station/space-station-3-d-printer-builds-ratchet-wrench-to-complete-first-phase-of-operations/), or
+
+![print-in-place wrench](assets/img/pip_nasa.png)
+
 * manufacture multimaterial parts with varying mechanical properties, like this [bearing block from Igus](https://toolbox.igus.com/motion-plastics-blog/multi-material-parts-from-3d-printer)
+
+![print-in-place bearing block](assets/img/pip_mmbb.jpg)
+
 While incorporating materials with different mechanical properties can elevate the functionality of print-in-place designs, such as using both rigid and elastic materials, differing materials may not adhere well to each other. Therefore, when using both rigid and elastic parts in print-in-place modeling, care needs to be taken to appropriately retain the regions made from each material in the design. Creating mechanical mates, such as encapsulated or overlapping regions and/or dovetail joints, to force these materials to stay together, is therefore essential for designs like these. 
+
 #### Design Rationale
 * **Elastic Hinge:** This component uses a 3x3 square matrix of flexible 95A TPU. This flexible material allows the squares to compress into a diamond shape, which in turn compresses the matrix as a whole. Because the region can compress in both the X and Y directions, the jaws can both expand and contract depending on whether the handles are pulled apart or pushed together, respectively. The elastic deformation of the matrix allows the pliers to return to the resting position (in which the jaws are parallel) when no force is applied to the handles. 
 * **Jaws:** The jaws are made of rigid and durable ABS. This allows them to firmly grip components, but due to the elastic hinge, they cannot apply a crushing force since the square matrix will deform before an object is crushed. This serves both to protect the fragile electronics the pliers were designed to handle while also allowing them to be used safely by young children without the danger of injury. Ridges along the inside faces of the jaws facilitate gripping cylindrical resistors, as the ridges are spaced so that the resistors can settle in between the gaps.
@@ -64,6 +77,10 @@ These pliers can either be printed in place using a dual extrusion printer, or t
   * **Rigid Jaws and Handles**
     * Material: ABS
     * Temperature: 270°C (nozzle) / 90°C (bed)
+
+See one region of the joint get encapsulated after the print resumes in the video below:
+
+<img src="/assets/img/pliers_printing.gif" alt="Hinge getting encapsulated in the left jaw of the pliers during printing." style="width:300px;"/> 
 
 ## Media Gallery
 
