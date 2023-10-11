@@ -2,7 +2,7 @@
 title: "Multimaterial Pliers"
 excerpt: "Pliers with rigid handles and jaws and an elastic hinge, perfect for gently gripping resistors."
 header:
-  image: /assets/img/pliers_side_profile.jpgpliers_render.png
+  image: /assets/img/pliers_side_profile.jpg
   teaser: /assets/img/pliers_render.png
 gallery:
   - image_path: assets/img/pliers_side_profile.jpg
