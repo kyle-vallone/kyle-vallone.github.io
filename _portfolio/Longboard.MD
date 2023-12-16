@@ -37,8 +37,17 @@ This project endeavored to use two different 3D printing technologies to create 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e1860f48bf4d04e0c?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 
-## Design Philosophy: Generative Design Skate Trucks
-Powder bed fusion is perfect for pairing with generative design, as layers of unmelted powder serve as support for future layers
+## Design Philosophy: Generative Design and Powder Bed Fusion
+
+<img src="/assets/img/powder_print.gif" style="width:300px;"/> 
+
+Powder bed fusion is perfect for pairing with generative design, as layers of unmelted powder serve as support for future layers allow for nearly unrestricted geometries to be printed. Recoating over the printed (and unprinted) regions after the desired regions of the build volume have been melted by the laser then provides a new layer of substrate for the laser to act upon. For most materials, this allows parts printed through powder bed fusion to not require any support. In these cases, all that needs to occur is a thorough cleaning of the parts to remove any unfused powder particles. However, in the case of metal powder printing, supports are often required (with extensive postprocessing to remove them) to avoid unsupported geometries sinking into the powder layers below, as the melted regions are denser than the unfused powder. For this reason, it made sense to design the trucks out of both nylon and aluminum to reflect a variety of manufacturing circumstances.
+
+Another benefit of powder bed fusion is the ability to recycle the unused powder that does not end up as part of the model. Unlike the lengthy process of recycling support material from FFF printing, the leftover powder can easily be siphoned off and reincorporated into a new batch. However, due to the exposure to the high temperatures of the build volume, this powder needs to be "refreshed" by adding in virgin powder to balance out the degraded material properties of the recycled powder.
+
+Generative design does have one significant drawback, namely the extensive CAD work that still must go into setting the constraints that the program will solve around. All obstacles that could be encountered by the truck need to be meticulously blocked out--from the obvious (wheels, pulleys, etc.) to the unexpected (rotational clearance to fit the part into position on its mounting plate). These obstacles are in addition to the preserved geometry that makes up the functional components of each part--in the truck's case, this was the motor mount geometry, the "sheath" that holds the axle, and the pivot joint and kingpin geometries. Overall, blocking out all of the obstacles can often take up more time than it would take to CAD the part yourself. However, generative design allows the same constraints and loads to be applied to multiple materials, allowing further iterations to be quick and easy. Since the load simulation work is already built into the workflow, it can simplify the process of designing and testing. However, the use of a FFF printed prototype is not to be understated, as can be seen in the media gallery. These prototypes revealed many unforseen obstacles that needed to be blocked out in future iterations, which saved money that would have been wasted on insufficient SLS printed designs.
+
+APPLICATIONS COMING SOON
 
 ## Design Philosophy: Large-Format 3D-Printed Longboard Deck
 COMING SOON
