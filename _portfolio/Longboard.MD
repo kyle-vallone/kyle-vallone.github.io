@@ -56,7 +56,9 @@ This chosen "short" style, with a 25 in wheelbase, had the added benefit of mini
 
 <img src="/assets/img/lb_sim.png" style="width:300px;"/> 
 
-The board's aesthetic design was optimized for simplicity, with a simple "arrow" tip on both ends. The overhangs on the arrows were minimized (<45°) to allow the board to be printed along its thin edge, which make the layer lines of the print create the texture of the deck. A celebration of how far 3D printing has come, this deck would be the perfect gift for the 3D printing enthusiast!
+To minimize compressive forces on the board from fasteners securing the trucks, machined aluminum blocks were instead used to secure the truck assemblies to the board. As such, pockets with a lip were integrated into the board to allow for secure mounting of these blocks; the wheelbase was set relative to the center of these blocks in the design.
+
+Lastly, the board's aesthetic design was optimized for simplicity, with a simple "arrow" tip on both ends. The overhangs on the arrows were minimized (<45°) to allow the board to be printed along its thin edge, which make the layer lines of the print create the texture of the deck. A celebration of how far 3D printing has come, this deck would be the perfect gift for the 3D printing enthusiast!
 
 ## Media Gallery
 
