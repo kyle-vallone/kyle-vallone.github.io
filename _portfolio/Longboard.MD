@@ -50,7 +50,13 @@ Generative design does have one significant drawback, namely the extensive CAD w
 APPLICATIONS COMING SOON
 
 ## Design Philosophy: Large-Format 3D-Printed Longboard Deck
-COMING SOON
+The longboard design was a much simpler process than generative design, both due to the deck being a simpler design and the fact that it required fewer load cases. It was optimized to support the weight of a 200 lb rider with no more than 12 mm of deflection in the vertical plane. The ["short longboard" style](https://vandemlongboardshop.co.uk/collections/short-longboards) was chosen both to minimize weight for ease of everyday use when carrying it inside buildings to store it, which also led to an agile riding style being promoted. 
+
+This chosen "short" style, with a 25 in wheelbase, had the added benefit of minimizing the displacement of the board, as the weight of the rider would be better supported by the trucks being closer together. When it came time to simulate the load of the rider's weight on the board, which had the thickness conservatively set at 15 mm, the deflection turned out to be well below the minimum--the maximum deflection was only 2.44 mm. This gave the board a minimum safety factor of 7.41, well above the standard 2.0.
+
+<img src="/assets/img/lb_sim.png" style="width:300px;"/> 
+
+The board's aesthetic design was optimized for simplicity, with a simple "arrow" tip on both ends. The overhangs on the arrows were minimized (<45°) to allow the board to be printed along its thin edge, which make the layer lines of the print create the texture of the deck. A celebration of how far 3D printing has come, this deck would be the perfect gift for the 3D printing enthusiast!
 
 ## Media Gallery
 
