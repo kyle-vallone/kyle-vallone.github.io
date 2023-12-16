@@ -67,7 +67,10 @@ We chose to optimize the device for mixing small volumes, which would be ideal f
 4. **Support Removal:** Remove supports from the cured model. Ensure to wear protective eyewear to avoid being injured by any flying pieces.
 5. **Additional Postprocessing:** This is an optional step to ensure leaching photoinitators will not affect the PDMS casting. Based on [this study](https://doi.org/10.1021/acs.analchem.0c04944) and our own experience, VPP prints can benefit from thermal and additional UV treatments to eliminate remaining photoinitiators that could interfere with this step. Both conditions can occur in tandem at either 60°C or 120°C.
 6. **Parylene Coating:** Apply a parylene-C coating to the cured and postprocessed mold (we used Labcoter PDS 2010 parylene deposition machine). This coating aids in demolding and also allows for the creation of biocompatible devices.
-7. **PDMS Casting:** Mix a 10:1 mixture of polydimethyl siloxane (PDMS) elastomer and curing agent by weight and pour into the mold. In a vacuum chamber, degass the mixture for 30 minutes. Them, cure the mixture for 80°C for 3 hours.
+7. **PDMS Casting:** Mix a 10:1 mixture of polydimethyl siloxane (PDMS) elastomer and curing agent by weight and pour into the mold. In a vacuum chamber, degass the mixture for 30 minutes. Them, cure the mixture for 80°C for 3 hours. PDMS is used due to its:
+* transparency, which allows for visual evaluation of mixing success,
+* elasticity, which allows for the insertion of barbs for connecting inputs and outputs, and
+* cost effectiveness
 8. **Demolding and Plasma Bonding:** Remove the PDMS device from the mold. Plasma treat the device (we used a PlasmaFlo PDC-FMH plasma cleaner) and bond it to a 75 mm by 25 mm glass microscope slide to create a leak-proof seal.
 
 ## Media Gallery
