@@ -30,7 +30,7 @@ This project endeavored to use two different 3D printing technologies to create 
 * Large format fused filament fabrication (FFF) printing was used to create the longboard deck. As the printed longboard is heavier than conventionally manufactured decks, a ["short longboard" style](https://vandemlongboardshop.co.uk/collections/short-longboards) was chosen to minimize the weight and size of the overall assembly to make it easier to carry around for everyday use cases. This short longboard style also lends itself to an agile riding style due to the smaller turn radius of the wheelbase.
 
 ## CAD Models
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e944637836943444f?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e230000b4cd7d3166?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e81cc7cfd7c2935f1?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
@@ -38,7 +38,7 @@ This project endeavored to use two different 3D printing technologies to create 
 
 
 ## Design Philosophy: Generative Design Skate Trucks
-COMING SOON
+Powder bed fusion is perfect for pairing with generative design, as layers of unmelted powder serve as support for future layers
 
 ## Design Philosophy: Large-Format 3D-Printed Longboard Deck
 COMING SOON
