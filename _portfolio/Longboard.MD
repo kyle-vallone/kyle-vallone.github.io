@@ -15,7 +15,7 @@ gallery:
   - image_path: assets/img/gd_front_1.jpg
   - image_path: assets/img/gd_back_1.jpg
   - image_path: assets/img/gd_side_1.jpg
-  - image_path: assets/img/gd_truck_mounted
+  - image_path: assets/img/gd_truck_mounted.jpg
   - image_path: assets/img/lb_petg_proto.jpg
   - image_path: assets/img/lb_twist.gif
   - image_path: assets/img/lb_printing.jpg
